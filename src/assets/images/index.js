@@ -1,0 +1,13 @@
+export { default as mainShoe1 } from './mainShoe1.png';
+export { default as mainShoe2 } from './mainShoe2.png';
+export { default as mainShoe3 } from './mainShoe3.png';
+export { default as customer1 } from './customer1.jpg';
+export { default as customer2 } from './customer2.jpg';
+export { default as shoe4 } from './shoes4.png';
+export { default as shoe5 } from './shoes5.png';
+export { default as shoe6 } from './shoes6.png';
+export { default as shoe7 } from './shoes7.png';
+export { default as thumbnail1 } from './thumbnail-shoe1.png';
+export { default as thumbnail2 } from './thumbnail-shoe2.png';
+export { default as thumbnail3 } from './thumbnail-shoe3.png';
+export { default as menuicon } from './menuicon.png';
